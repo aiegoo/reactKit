@@ -41,6 +41,7 @@
     ]
   },
   "optionalDependencies": {
-    "typescript": "3.5.3"
+    "typescript": "3.5.3",
+    "homepage" : "http://aiegoo.github.io/reactKit"
   }
 }
